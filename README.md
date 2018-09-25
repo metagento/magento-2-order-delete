@@ -2,6 +2,8 @@
 
 Currently, Magento doesn't allow you to delete an order from your store. This extension will help you to do that, simple but helpful.
 
+![Order Delete extension by Metagento](http://www.metagento.com/media/metagento/orderdelete-m2/order-grid.jpg)
+
 Install using composer
 
 ```
