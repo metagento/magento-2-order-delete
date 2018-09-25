@@ -12,4 +12,4 @@ php bin/magento setup:upgrade
 php bin/magento setup:static-content:deploy
 ```
 
-Any question, please visit https://www.metagento.com/
+Any question, please visit https://www.metagento.com/magento-2-order-delete.html
